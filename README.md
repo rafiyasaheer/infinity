@@ -6,20 +6,20 @@ PUBLIC DISTRIBUTION MANAGEMENT SYSTEM🎯
 
 
 Team Members
-- Member 1: [JEEVA WILSON] - [ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY]
-- Member 2: [RAFIYA SAHEER] - [ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY]
-- Member 3: [DIYA P] - [ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY]
+- Member 1: JEEVA WILSON - ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY
+- Member 2: RAFIYA SAHEER - ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY
+- Member 3: DIYA P - ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[PUBLIC DISTRIBUTION MANAGEMENT SYSTEM is a software solution designed to automate the distribution of essentials commodities through government authorized rationshops.It streamline inventory management beneficiary authentication,transaction tracking and reporting to ensure fair and efficient distribution while reducing fraud and manual errors.]
+PUBLIC DISTRIBUTION MANAGEMENT SYSTEM is a software solution designed to automate the distribution of essentials commodities through government authorized rationshops.It streamline inventory management beneficiary authentication,transaction tracking and reporting to ensure fair and efficient distribution while reducing fraud and manual errors.
 
 ### The Problem statement
-[1.DELAYS IN RATION DISTRIBUTION-Inefficient process leads to delays,causing inconveniance to beneficiaries who depend on timely distribution.
-2.LACK OF REAL TIME MONITORING-Authorities cannot track stock levels,transactions or beneficiaries data in real time,leading to inefficies
-3.LIMITED ACCESSIBILITY FOR BENEFICIARIES-Lack of online or mobile-based services forces beneficiaries to visit shops physically,increasing their burden ]
+1.DELAYS IN RATION DISTRIBUTION-Inefficient process leads to delays,causing inconveniance to beneficiaries who depend on timely distribution.
+2.LACK OF REAL TIME MONITORING-Authorities cannot track stock levels,transactions or beneficiaries data in real time,leading to inefficies.
+3.LIMITED ACCESSIBILITY FOR BENEFICIARIES-Lack of online or mobile-based services forces beneficiaries to visit shops physically,increasing their burden 
 
 ### The Solution
 [How are you solving it? Keep it fun!]
