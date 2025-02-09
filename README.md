@@ -14,10 +14,12 @@ PUBLIC DISTRIBUTION MANAGEMENT SYSTEM🎯
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[PUBLIC DISTRIBUTION MANAGEMENT SYSTEM is a software solution designed to automate the distribution of essentials commodities through government authorized rationshops.It streamline inventory management beneficiary authentication,transaction tracking and reporting to ensure fair and efficient distribution while reducing fraud and manual errors.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[1.DELAYS IN RATION DISTRIBUTION-Inefficient process leads to delays,causing inconveniance to beneficiaries who depend on timely distribution.
+2.LACK OF REAL TIME MONITORING-Authorities cannot track stock levels,transactions or beneficiaries data in real time,leading to inefficies
+3.LIMITED ACCESSIBILITY FOR BENEFICIARIES-Lack of online or mobile-based services forces beneficiaries to visit shops physically,increasing their burden ]
 
 ### The Solution
 [How are you solving it? Keep it fun!]
