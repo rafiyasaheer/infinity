@@ -36,8 +36,8 @@ PUBLIC DISTRIBUTION MANAGEMENT SYSTEM is a software solution designed to automat
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- PYTHON
+- HTML
 - [Libraries used]
 - [Tools used]
 
