@@ -11,7 +11,7 @@ Team Members
 - Member 3: DIYA P - ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/rafiyasaheer/infinity
 
 ### Project Description
 PUBLIC DISTRIBUTION MANAGEMENT SYSTEM is a software solution designed to automate the distribution of essentials commodities through government authorized rationshops.It streamline inventory management beneficiary authentication,transaction tracking and reporting to ensure fair and efficient distribution while reducing fraud and manual errors.
