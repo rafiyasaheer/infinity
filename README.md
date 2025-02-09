@@ -19,10 +19,19 @@ PUBLIC DISTRIBUTION MANAGEMENT SYSTEM is a software solution designed to automat
 ### The Problem statement
 1.DELAYS IN RATION DISTRIBUTION-Inefficient process leads to delays,causing inconveniance to beneficiaries who depend on timely distribution.
 2.LACK OF REAL TIME MONITORING-Authorities cannot track stock levels,transactions or beneficiaries data in real time,leading to inefficies.
-3.LIMITED ACCESSIBILITY FOR BENEFICIARIES-Lack of online or mobile-based services forces beneficiaries to visit shops physically,increasing their burden 
+3.LIMITED ACCESSIBILITY FOR BENEFICIARIES-Lack of online or mobile-based services forces beneficiaries to visit shops physically,increasing their burden.
+4.MISCOMMUNICATIONS BETWEEN GOVERNMENT AND SHOPS-Delays in policy updates or stock allocations due to lack of an efficient communication system.
+5.TIME-CONSUMING PROCESS-Long queue and slow manual processing reduce efficiency and cause inconvenience to beneficiaries. 
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+1.Fraud Prevention Measures -Integrate biometric authentication and unique digital ration cards to prevent unauthorized transactions.
+2.Real-Time Inventory Management* – Use automated stock tracking and alerts to ensure accurate stock management and prevent shortages or pilferage.  
+3.Beneficiary Authentication System – Implement an AI-based eligibility check and biometric verification to ensure only eligible beneficiaries receive rations.  
+4.Queue Management System – Introduce token-based or online scheduling systems to reduce waiting times and improve efficiency.  
+6. Automated Reporting and Transparency – Generate real-time reports on transactions, stock levels, and distribution patterns to ensure transparency and prevent corruption.  
+7.Fast and Efficient Distribution – Use barcode or QR-based scanning for quick verification and transaction processing, reducing delays.  
+8. Mobile and Online Accessibility– Develop a mobile app or web portal for beneficiaries to check ration status, stock availability, and shop timings.    
+12. Seamless Communication System– Integrate real-time communication between government authorities and ration shop owners through SMS, email, or mobile apps.  
 
 ## Technical Details
 ### Technologies/Components Used
